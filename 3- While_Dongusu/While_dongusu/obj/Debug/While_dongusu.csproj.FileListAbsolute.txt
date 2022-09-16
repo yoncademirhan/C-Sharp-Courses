@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\c aytaçhoca\While_dongusu\While_dongusu\bin\Debug\While_dongusu.exe.config
+C:\Users\Yonca\Desktop\c aytaçhoca\While_dongusu\While_dongusu\bin\Debug\While_dongusu.exe
+C:\Users\Yonca\Desktop\c aytaçhoca\While_dongusu\While_dongusu\bin\Debug\While_dongusu.pdb
+C:\Users\Yonca\Desktop\c aytaçhoca\While_dongusu\While_dongusu\obj\Debug\While_dongusu.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\c aytaçhoca\While_dongusu\While_dongusu\obj\Debug\While_dongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\c aytaçhoca\While_dongusu\While_dongusu\obj\Debug\While_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\c aytaçhoca\While_dongusu\While_dongusu\obj\Debug\While_dongusu.exe
+C:\Users\Yonca\Desktop\c aytaçhoca\While_dongusu\While_dongusu\obj\Debug\While_dongusu.pdb
