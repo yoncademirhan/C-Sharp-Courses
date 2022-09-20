@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\array_metotlar\array_metotlar\bin\Debug\array_metotlar.exe.config
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\array_metotlar\array_metotlar\bin\Debug\array_metotlar.exe
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\array_metotlar\array_metotlar\bin\Debug\array_metotlar.pdb
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\array_metotlar\array_metotlar\obj\Debug\array_metotlar.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\array_metotlar\array_metotlar\obj\Debug\array_metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\array_metotlar\array_metotlar\obj\Debug\array_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\array_metotlar\array_metotlar\obj\Debug\array_metotlar.exe
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\array_metotlar\array_metotlar\obj\Debug\array_metotlar.pdb
