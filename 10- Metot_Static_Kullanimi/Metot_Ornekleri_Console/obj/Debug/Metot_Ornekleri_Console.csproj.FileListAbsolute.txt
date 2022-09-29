@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornekleri_Console\Metot_Ornekleri_Console\bin\Debug\Metot_Ornekleri_Console.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornekleri_Console\Metot_Ornekleri_Console\bin\Debug\Metot_Ornekleri_Console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornekleri_Console\Metot_Ornekleri_Console\bin\Debug\Metot_Ornekleri_Console.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornekleri_Console\Metot_Ornekleri_Console\obj\Debug\Metot_Ornekleri_Console.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornekleri_Console\Metot_Ornekleri_Console\obj\Debug\Metot_Ornekleri_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornekleri_Console\Metot_Ornekleri_Console\obj\Debug\Metot_Ornekleri_Console.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornekleri_Console\Metot_Ornekleri_Console\obj\Debug\Metot_Ornekleri_Console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornekleri_Console\Metot_Ornekleri_Console\obj\Debug\Metot_Ornekleri_Console.pdb
