@@ -1,0 +1,7 @@
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220817_1_Property\20220817_1_Property\bin\Debug\20220817_1_Property.exe.config
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220817_1_Property\20220817_1_Property\bin\Debug\20220817_1_Property.exe
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220817_1_Property\20220817_1_Property\bin\Debug\20220817_1_Property.pdb
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220817_1_Property\20220817_1_Property\obj\Debug\20220817_1_Property.csprojAssemblyReference.cache
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220817_1_Property\20220817_1_Property\obj\Debug\20220817_1_Property.csproj.CoreCompileInputs.cache
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220817_1_Property\20220817_1_Property\obj\Debug\20220817_1_Property.exe
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220817_1_Property\20220817_1_Property\obj\Debug\20220817_1_Property.pdb
