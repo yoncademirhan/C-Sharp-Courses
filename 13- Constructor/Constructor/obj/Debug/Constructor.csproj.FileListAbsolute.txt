@@ -1,0 +1,8 @@
+E:\C# SmartPro Hoca\Constructor\Constructor\bin\Debug\Constructor.exe.config
+E:\C# SmartPro Hoca\Constructor\Constructor\bin\Debug\Constructor.exe
+E:\C# SmartPro Hoca\Constructor\Constructor\bin\Debug\Constructor.pdb
+E:\C# SmartPro Hoca\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+E:\C# SmartPro Hoca\Constructor\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+E:\C# SmartPro Hoca\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+E:\C# SmartPro Hoca\Constructor\Constructor\obj\Debug\Constructor.exe
+E:\C# SmartPro Hoca\Constructor\Constructor\obj\Debug\Constructor.pdb
