@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ders_Notları\14- Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ders_Notları\14- Enum\Enum\bin\Debug\Enum.exe
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ders_Notları\14- Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ders_Notları\14- Enum\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ders_Notları\14- Enum\Enum\obj\Debug\Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ders_Notları\14- Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ders_Notları\14- Enum\Enum\obj\Debug\Enum.exe
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ders_Notları\14- Enum\Enum\obj\Debug\Enum.pdb
