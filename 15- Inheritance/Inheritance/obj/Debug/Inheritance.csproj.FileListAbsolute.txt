@@ -1,0 +1,8 @@
+E:\C# SmartPro Hoca\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\C# SmartPro Hoca\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\C# SmartPro Hoca\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\C# SmartPro Hoca\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\C# SmartPro Hoca\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+E:\C# SmartPro Hoca\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\C# SmartPro Hoca\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\C# SmartPro Hoca\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
