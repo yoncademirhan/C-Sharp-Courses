@@ -1,0 +1,7 @@
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_4_Abstraction\20220825_4_Abstraction\bin\Debug\20220825_4_Abstraction.exe.config
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_4_Abstraction\20220825_4_Abstraction\bin\Debug\20220825_4_Abstraction.exe
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_4_Abstraction\20220825_4_Abstraction\bin\Debug\20220825_4_Abstraction.pdb
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_4_Abstraction\20220825_4_Abstraction\obj\Debug\20220825_4_Abstraction.csprojAssemblyReference.cache
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_4_Abstraction\20220825_4_Abstraction\obj\Debug\20220825_4_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_4_Abstraction\20220825_4_Abstraction\obj\Debug\20220825_4_Abstraction.exe
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_4_Abstraction\20220825_4_Abstraction\obj\Debug\20220825_4_Abstraction.pdb
