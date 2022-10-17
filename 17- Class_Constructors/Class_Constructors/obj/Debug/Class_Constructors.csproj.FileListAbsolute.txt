@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Constructors\Class_Constructors\bin\Debug\Class_Constructors.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Constructors\Class_Constructors\bin\Debug\Class_Constructors.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Constructors\Class_Constructors\bin\Debug\Class_Constructors.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Constructors\Class_Constructors\obj\Debug\Class_Constructors.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Constructors\Class_Constructors\obj\Debug\Class_Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Constructors\Class_Constructors\obj\Debug\Class_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Constructors\Class_Constructors\obj\Debug\Class_Constructors.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Constructors\Class_Constructors\obj\Debug\Class_Constructors.pdb
