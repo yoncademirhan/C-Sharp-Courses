@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Abstract\Class_Abstract\bin\Debug\Class_Abstract.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Abstract\Class_Abstract\bin\Debug\Class_Abstract.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Abstract\Class_Abstract\bin\Debug\Class_Abstract.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Abstract\Class_Abstract\obj\Debug\Class_Abstract.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Abstract\Class_Abstract\obj\Debug\Class_Abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Abstract\Class_Abstract\obj\Debug\Class_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Abstract\Class_Abstract\obj\Debug\Class_Abstract.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Class_Abstract\Class_Abstract\obj\Debug\Class_Abstract.pdb
