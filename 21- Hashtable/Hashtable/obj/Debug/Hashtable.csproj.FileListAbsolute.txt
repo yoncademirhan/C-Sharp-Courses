@@ -1,0 +1,3 @@
+C:\Users\Yonca\Desktop\CAytacHoca\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\CAytacHoca\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\CAytacHoca\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.CoreCompileInputs.cache
