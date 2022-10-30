@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\CAytacHoca\Sablon_Tipler\Sablon_Tipler\bin\Debug\Sablon_Tipler.exe.config
+C:\Users\Yonca\Desktop\CAytacHoca\Sablon_Tipler\Sablon_Tipler\bin\Debug\Sablon_Tipler.exe
+C:\Users\Yonca\Desktop\CAytacHoca\Sablon_Tipler\Sablon_Tipler\bin\Debug\Sablon_Tipler.pdb
+C:\Users\Yonca\Desktop\CAytacHoca\Sablon_Tipler\Sablon_Tipler\obj\Debug\Sablon_Tipler.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\CAytacHoca\Sablon_Tipler\Sablon_Tipler\obj\Debug\Sablon_Tipler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\CAytacHoca\Sablon_Tipler\Sablon_Tipler\obj\Debug\Sablon_Tipler.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\CAytacHoca\Sablon_Tipler\Sablon_Tipler\obj\Debug\Sablon_Tipler.exe
+C:\Users\Yonca\Desktop\CAytacHoca\Sablon_Tipler\Sablon_Tipler\obj\Debug\Sablon_Tipler.pdb
